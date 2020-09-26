@@ -1,3 +1,7 @@
+
+<img src="https://raw.githubusercontent.com/siddharth018/Laravel-8-CRUD-using-ajax/master/Laravel%20ajax%20crud.png
+" width="100%">
+
 # laravel 8 Ajax Crud
 Laravel 8 Ajax Crud
 
